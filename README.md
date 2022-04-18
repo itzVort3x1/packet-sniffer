@@ -1,2 +1,2 @@
 # packet-sniffer
-A script that helps you sniff all the packets flowing through an interface.
+A script that helps you sniff all the packets flowing through an interface in the same network
